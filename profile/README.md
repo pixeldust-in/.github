@@ -1,5 +1,7 @@
 # Pixeldust Technologies
 
+![Pixeldust Cover Image](https://www.pixeldust.in/cover-photo.png)
+
 Pixeldust is a place where ideas become reality. We started as a small, bootstrapped product development consultancy in 2019, but we've made big strides in just a few short years. Our goal is to combine design, technology, and innovation to solve complex business challenges in the digital world. We've delivered over 100 turnkey solutions across a wide range of industries, including FMCG, Fintech, Pharma, Entertainment, Edtech, Real Estate, and the Social Sector. With such a diverse portfolio and a track record of success, it's no surprise that Pixeldust has become a force to be reckoned with.
 
 In an era where debt funding is glorified and considered as an indicator of success, Pixeldust Technologies has stayed true to traditional business values and maintained a positive cash flow and steady revenue growth. We're proud to have a strong portfolio of clients, including multiple brands under P&G India, Johnson & Johnson USA, Deutsche Telekom, PayTM Insurance, IiAS, Tata Trusts, Sony Music India, Tata ClassEdge, and more. Our clients trust and continue to engage with us, and we invite you to be a part of this exciting adventure.
